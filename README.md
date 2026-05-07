@@ -10,26 +10,16 @@
   <samp style="backgroundColor:gray;">Frontend Developer | Ex-McKinsey & Datadog </samp>
 </p>
 
+<p>I started my career at McKinsey and Datadog strategizing product growth and cloud observability, until I realized I wanted to build the engines myself. After years of mastering the 'no-code' ecosystem to ship quick projects, I transitioned into frontend development to gain full technical ownership over the logic and scalability. Now, I use my business logic to delivering reliable, maintainable code that prioritizes user needs and business impact.</p>
+
+###
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohikim/)
 [![Portfolio](https://img.shields.io/badge/EPORTFOLIO-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tohikim.com)
 [![Email](https://img.shields.io/badge/EMAIL-E8960F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@tohikim.com)
 
 ###
 
-<p>I spent the early part of my career in sales, consulting, and marketing at companies like McKinsey and Datadog, helping C-suites strategize their next moves. But I realized I didn't just want to suggest the strategy; I wanted to build the engine.  After years of 'shapeshifting' products for social media and mastering no-code tools, I dove into React and TypeScript to bring my own ideas to life with full technical ownership. Today, I bridge the gap between high-level business logic and high-performance user interfaces. </p>
-
-###
-<h2 align="left">
-  My Philosophy
-</h2>
-
-<p>
-  1️⃣ I view technology as a vehicle for business operations. I prioritize features based on ROI and long-term reliability, not just 'engineer logic.'<br>
-  2️⃣ I believe in common goals and transparent discussion. To me, feedback is a signal to pivot or persevere, never a judgment on character.<br>
-  3️⃣ I can decode technical complexities for business stakeholders and translate business priorities into an aligned Jira board for my fellow engineers.<br>
-</p>
-
-###
 <h2 align="left">I code with</h2>
 
 ###
