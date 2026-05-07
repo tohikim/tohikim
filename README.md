@@ -1,14 +1,13 @@
-<h1 align="left">Hi 👋, I'm Tohi</h1>
-<h3 align="left">Business analyst turned frontend engineer</h3>
+<h1 align="left">Tohi Kim</h1>
+<p align="left">
+  <samp style="backgroundColor:gray;">Frontend Developer | Ex-McKinsey, Datadog </samp>
+</p>
+<p>Frontend Developer bridging the gap between business logic and high-performance user interfaces. With a background at McKinsey and Datadog, I bring analytical approach to frontend engineering, focusing on scalability, observability, and system reliability.</p>
 
-- 🔭 I’m currently working on [Imposter Syndrome Killer](https://github.com/tohikim/imposter-syndrome-killer)
-
-- 👨‍💻 All of my projects are available at [my repos](https://github.com/tohikim)
-
-- 📫 How to reach me [via email](mailto:office@tohikim.com)
-
-- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/tohikim/)
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohikim/)
+[![Portfolio](https://img.shields.io/badge/EPORTFOLIO-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tohikim.com)
+[![Email](https://img.shields.io/badge/EMAIL-E8960F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@tohikim.com)
+[![Github](https://img.shields.io/badge/REPOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tohikim)
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="left" border="0">
