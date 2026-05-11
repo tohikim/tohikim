@@ -15,7 +15,6 @@
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohikim/)
-[![Portfolio](https://img.shields.io/badge/EPORTFOLIO-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tohikim.com)
 [![Email](https://img.shields.io/badge/EMAIL-E8960F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@tohikim.com)
 
 ###
