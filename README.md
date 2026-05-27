@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohikim/)
 [![Email](https://img.shields.io/badge/EMAIL-E8960F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@tohikim.com)
-[![Scrimba](https://img.shields.io/badge/SCRIMBA-000000?style=for-the-badge&logo=globe&logoColor=white)](https://scrimba.com/?via=u442b09c)
+[![Scrimba](https://img.shields.io/badge/SCRIMBA-967BB6?style=for-the-badge&logo=globe&logoColor=white)](https://scrimba.com/?via=u442b09c)
 
 ###
 
