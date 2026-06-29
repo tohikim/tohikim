@@ -10,7 +10,7 @@
   <samp style="backgroundColor:gray;">Frontend Developer | Ex-McKinsey & Datadog </samp>
 </p>
 
-<p>I started my career at McKinsey and Datadog strategizing product growth and cloud observability, until I realized I wanted to build the engines myself. After years of mastering the 'no-code' ecosystem to ship quick projects, I transitioned into frontend development to gain full technical ownership over the logic and scalability. Now, I use my business logic to delivering reliable, maintainable code that prioritizes user needs and business impact.</p>
+<p>Frontend engineer building AI-integrated web apps. Currently working with React, TypeScript, Next.js, and Tailwind. Recent projects include LLM-powered products using OpenAI and Gemini APIs, deployed on Vercel (pinned below).</p>
 
 ###
 
